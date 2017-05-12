@@ -1,0 +1,9 @@
+*.pdf
+*.aux
+*.log
+*.out
+*.toc
+*.snm
+*.nav
+!reunaehdot.pdf
+reunaehdot/reunaehdot.pdf
